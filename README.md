@@ -1,18 +1,19 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/MigUHLuM)
-# ⚔️ Type Kombat
+# Type Kombat
 
 > **Projeto Final - Programação Orientada a Objetos I** > **Instituto Federal Catarinense - Campus Videira** > **Professor:** Fábio José Rodrigues Pinheiro  
-> **Data:** 09/12/2025
+> **Data:** 09/12/2025 > **Alunos:** Felipe Strapazzon, Joao Victor Reichardt, Matheus Valdemarca
+
 
 ![Java](https://img.shields.io/badge/Language-Java-orange) ![Status](https://img.shields.io/badge/Status-Completed-green) ![License](https://img.shields.io/badge/License-MIT-blue)
 
-## 📖 Sobre o Projeto
+## Sobre o Projeto
 
 **Type Kombat** é um jogo de batalhas em modo texto (Console Application) desenvolvido em Java. O projeto inova ao misturar a estratégia clássica de RPGs por turno com mecânicas de **Ação e Reflexo**.
 
 Diferente de RPGs tradicionais onde o resultado depende apenas de sorte (dados), aqui o jogador precisa provar sua habilidade: o dano dos ataques e a eficácia da defesa são calculados com base na **velocidade de digitação** do usuário.
 
-## 🎮 Como Jogar
+## Como Jogar
 
 O jogo funciona em um sistema de rodadas híbrido:
 
@@ -28,7 +29,7 @@ O jogo funciona em um sistema de rodadas híbrido:
 3.  **Fase do Inimigo:**
     * O inimigo ataca e o jogador deve digitar uma palavra de defesa (ex: `ESQUIVA`) rapidamente para evitar o dano.
 
-## 🚀 Como Executar
+## Como Executar
 
 Certifique-se de ter o **JDK (Java Development Kit)** instalado.
 
@@ -47,9 +48,9 @@ Certifique-se de ter o **JDK (Java Development Kit)** instalado.
 
 ---
 
-## 🏗️ Estrutura e Requisitos POO
+## Estrutura e Requisitos POO
 
-Este projeto foi desenhado especificamente para demonstrar os pilares da Programação Orientada a Objetos. Abaixo detalhamos onde cada conceito foi aplicado no código:
+Este projeto foi criado especificamente para demonstrar os pilares da Programação Orientada a Objetos. Abaixo detalhamos onde cada conceito foi aplicado no código:
 
 ### 1. Abstração
 Utilizada para criar modelos genéricos que não podem ser instanciados diretamente, mas servem de base para objetos reais.
