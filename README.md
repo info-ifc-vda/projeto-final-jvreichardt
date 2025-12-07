@@ -2,7 +2,8 @@
 # Type Kombat
 
 > **Projeto Final - Programação Orientada a Objetos I** > **Instituto Federal Catarinense - Campus Videira** > **Professor:** Fábio José Rodrigues Pinheiro  
-> **Data:** 09/12/2025 > **Alunos:** Felipe Strapazzon, Joao Victor Reichardt, Matheus Valdemarca
+> **Data:** 09/12/2025
+>  **Alunos:** Felipe Strapazzon, Joao Victor Reichardt, Matheus Valdemarca
 
 
 ![Java](https://img.shields.io/badge/Language-Java-orange) ![Status](https://img.shields.io/badge/Status-Completed-green) ![License](https://img.shields.io/badge/License-MIT-blue)
@@ -35,15 +36,15 @@ Certifique-se de ter o **JDK (Java Development Kit)** instalado.
 
 1.  Clone o repositório:
     ```bash
-    git clone [https://github.com/seu-usuario/grim-typer-rpg.git](https://github.com/seu-usuario/grim-typer-rpg.git)
+    git clone [https://github.com/info-ifc-vda/projeto-final-jvreichardt](https://github.com/info-ifc-vda/projeto-final-jvreichardt)
     ```
 2.  Navegue até a pasta e compile o arquivo principal:
     ```bash
-    javac JogoFinalVisual.java
+    javac JogoFinal.java
     ```
 3.  Execute o jogo:
     ```bash
-    java JogoFinalVisual
+    java JogoFinal
     ```
 
 ---
